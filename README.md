@@ -12,7 +12,7 @@
 Este proyecto ha sido realizado por:
 
 - **Brandon Mieres** ([b.mieres@sapalomera.cat](mailto:b.mieres@sapalomera.cat))
-- **Lucas Pampillón**
+- **Lucas Pampillón**([l.pampillon@sapalomera.cat](mailto:l.pampillon@sapalomera.cat))
 
 ## Créditos de imágenes
 Las imágenes utilizadas en este proyecto no son de nuestra propiedad. Todos los derechos reservados a los autores de las imágenes.
